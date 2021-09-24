@@ -3,13 +3,23 @@
 <p> App for controll your finances builded with ReactJS - Typescript - Styled Components and MirageJS </p>
 
 
-<h2> Application </h2>
+<h2> 💻 Application </h2>
 
 <p> 
   <img src="https://i.imgur.com/V27Ixci.gif">
 </p>
 
+<h2> 🚀 Techs </h2>
 
+* ReactJS
+* TypeScript
+* Context API
+* Styled Components
+* Mirage JS
+* Axios
+* React Modal
+* Polished
+ 
 
 MIT License
 Made by. Breno Augusto
