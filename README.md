@@ -20,6 +20,9 @@
 * React Modal
 * Polished
  
+ 
+ 
 
 MIT License
-Made by. Breno Augusto
+
+<p>Made by. Breno Augusto</p>
