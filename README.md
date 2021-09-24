@@ -1,6 +1,6 @@
-<h1> dtmoney <h1/>
+<h1> dtmoney </h1>
 
-<p>* App for controll your finances builded with ReactJS - Typescript - Styled Components and MirageJS </p>
+<p> App for controll your finances builded with ReactJS - Typescript - Styled Components and MirageJS </p>
 
 
 <h2> Application </h2>
